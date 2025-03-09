@@ -1,0 +1,2 @@
+1.0
+https://kalle163bro.github.io/firmware_1_0.bin
