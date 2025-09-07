@@ -1,2 +1,2 @@
 1.1
-https://kalle163bro.github.io/firmware.bin
+https://kalle163bro.github.io/firmware_1_1.bin
